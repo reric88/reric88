@@ -1,4 +1,12 @@
-### Hi there 👋
+Hello!
+
+I am Eric Collard, a student currently enrolled in Commonwealth Coders, a program in the Lincoln Trail district of Kentucky developed to help people learn and implement coding skills.
+
+I have some experience with HTML, CSS and GML, and learning how to use languages such as HTML, Python and Java among others.
+
+I also have experience with graphics and game design and am currently working on developing a small video-game.
+
+Additional info will be added.
 
 <!--
 **reric88/reric88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
