@@ -1,12 +1,13 @@
 Hello!
 
-I am Eric Collard, a student currently enrolled in Commonwealth Coders, a program in the Lincoln Trail district of Kentucky developed to help people learn and implement coding skills.
+I am Eric Collard. As someone who started their career as a carpenter and later transitioned into web development, I bring a unique blend of hands-on experience and coding skills to the table. I spent 8 years in the construction field, finding joy in creating tangible things from scratch. This love has translated well to web-development and coding. My fascination with computers and applications has been a lifelong passion, and I've always loved understanding what makes them tick. Despite facing some obstacless, I'm determined to utilize my coding skills professionally.
 
-I have some experience with HTML, CSS and GML, and learning how to use languages such as HTML, Python and Java among others.
+Advocating for neurodivergence is deeply meaningful to me, especially as a father to a son with ASD and having received my own diagnosis shortly after his own. I believe in showing others with ASD that their potential knows no bounds and demonstrating to the world the inherent value in every mind.
 
-I also have experience with graphics and game design and am currently working on developing a small video-game.
+My expertise lies in the MERN stack. Proficient in HTML, CSS, Bootstrap, JavaScript, React, NodeJS, Python, and Game Maker Language (GML). Additionally, I have a good grasp of Express, MongoDB, and using the Pusher service. I also have experience using remote servers through services such as Google Cloud, Microsoft Azure and Linode.
 
-Additional info will be added.
+I also have experience with graphics and game design.
+
 
 <!--
 **reric88/reric88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
